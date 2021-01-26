@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Streaming</string>
+    <string name="Title">Video Streamer</string>
+    <string name="list_of_videos">List of Videos</string>
+</resources>
